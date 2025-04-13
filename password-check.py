@@ -1,5 +1,3 @@
-import pandas as pd
-import http
-
+import pandas
 
 print("I am alive")
